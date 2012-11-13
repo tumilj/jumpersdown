@@ -1,5 +1,5 @@
 <?php
-$page_title="FRE example PHP code and online MySQL database - example username password protected site";
+$page_title="Hello example PHP code and online MySQL database - example username password protected site";
 $page_keywords="example PHP code,free demo username and password example,PHP scripts,PHP hosting, free PHP code";
 $page_desc="FREE example PHP code and a MySQL database. The example is a username and password protected site example";
 
